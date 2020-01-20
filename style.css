@@ -1,3 +1,13 @@
+h1 {
+	border: solid;
+	border-width: 3px;
+	background-color: white;
+}
+
 body {
   background-color: lightblue;
+  text-align: center;
+  border: groove;
+  border-width: 3px;
+  font-size: 14px;
 }
